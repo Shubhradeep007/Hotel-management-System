@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("./images/95bwDJ.jpg");
+    background-color: black ;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+   }
+
+.up-con{
+   
+    margin: auto;
+}
+.book{
+    margin-bottom: 50px;
+}
+/* .do-con{
+    width: 50%;
+    position: relative;
+    top: 78px;
+} */
+/* .img{
+    background-image: none;
+    position: absolute;
+    z-index: -1;
+} */
+
